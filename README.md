@@ -1,7 +1,7 @@
 ### `npm start`
 
 Runs the app in the development mode.\
-*add .env file to root and add required api to .env file .
+*add .env file to root and add required api to .env file . <br>
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
